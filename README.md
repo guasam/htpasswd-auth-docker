@@ -1,4 +1,4 @@
-# htpasswd auth
+# htpasswd auth generator
 
 htpasswd auth credentials generator using bcrypt encryption as docker container.
 
